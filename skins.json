@@ -1,0 +1,16 @@
+[
+    {
+        "id": 133351,
+        "name": "gt0235",
+        "displayName": "helektra 海瑟音_by_mei（海瑟音 simplified edit）",
+        "weaponType": "",
+        "element": "GoodThings",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/gt0235",
+        "image": "Covers/gt0235.png",
+        "pmx": "v01/helektra 海瑟音_by_mei/海瑟音 simplified edit.pmx",
+        "base": "https://carlutic.github.io/goodthings38/"
+    }
+]

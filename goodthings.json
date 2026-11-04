@@ -1,0 +1,30 @@
+[
+    {
+        "id": 130234,
+        "name": "gt0234",
+        "displayName": "赞妮_by_mei",
+        "weaponType": "",
+        "element": "GoodThings",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/gt0234",
+        "image": "Covers/gt0234.png",
+        "pmx": "Zani_赞妮_by_mei/ZANI.pmx",
+        "base": "https://carlutic.github.io/goodthings38/"
+    },
+    {
+        "id": 130235,
+        "name": "gt0235",
+        "displayName": "helektra 海瑟音_by_mei",
+        "weaponType": "",
+        "element": "GoodThings",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/gt0235",
+        "image": "Covers/gt0235.png",
+        "pmx": "helektra 海瑟音_by_mei/海瑟音.pmx",
+        "base": "https://carlutic.github.io/goodthings38/"
+    }
+]
